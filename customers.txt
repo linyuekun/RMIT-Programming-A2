@@ -1,0 +1,8 @@
+id: 1, type: B, name: James
+id: 2, type: S, name: Lily
+id: 3, type: G, name: Tom, discount: 0.08
+id: 5, type: G, name: Harry, discount: 0.1
+id: 8, type: B, name: Annie
+id: 10, type: B, name: Sarah
+id: 11, type: S, name: Wilson
+id: 20, type: G, name: Bique, discount: 0.5

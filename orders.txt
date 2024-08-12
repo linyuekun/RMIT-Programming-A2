@@ -1,0 +1,6 @@
+customer: James, order: 2 1
+customer: Lily, order: RiceBanquet 2
+customer: 5, order: coke 1
+customer: Harry, order: hamburger 3
+customer: Tom, order: 8 1
+customer: 8, order: pasta 2

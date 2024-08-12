@@ -1,0 +1,10 @@
+id: 1, type: F, name: hamburger, price: 10.0
+id: 2, type: F, name: pizza, price: 12.5
+id: 3, type: F, name: rice, price: 15.0
+id: 4, type: F, name: pasta, price: 17.2
+id: 5, type: D, name: coke, price: 3.5
+id: 6, type: D, name: tea, price: 4.0
+id: 7, type: B, name: PartyBanquet, components: hamburger pizza coke
+id: 8, type: B, name: HamburgerBanquet, components: hamburger 5
+id: 9, type: B, name: RiceBanquet, components: 3 tea
+id: 10, type: B, name: Test, components: rice hamburger
